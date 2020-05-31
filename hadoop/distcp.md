@@ -1,3 +1,9 @@
+---
+author: "Kim, Geunho"
+date: 2020-05-29
+title: "distcp - HDFS 클러스터 간 파일 복제하기"
+---
+
 # distcp - HDFS 클러스터 간 파일 복제하기
 `distcp`는 distributed copy의 약어로, 서로다른 HDFS 클러스터 간 파일을 복제할때 사용하는 명령어이다.
 

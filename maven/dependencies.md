@@ -1,7 +1,7 @@
 ---
 author: "Kim, Geunho"
 date: 2020-06-08
-title: "Maven - 의존성 관리"
+title: "Maven - 의존성 관리시 주의사항"
 ---
 
 Maven 프로젝트는 외부 모듈을 참조할때 maven repository로부터 참조 대상을  POM 파일의 의존성 항목에 추가해서 관리한다.
